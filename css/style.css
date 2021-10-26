@@ -1446,7 +1446,6 @@ element.style {
     
     nav.city-menu-wrapper .city-menu-1 {
         background: #2a5e88;
-        background-image: url(data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABQAAAAUAQMAAAC3R49OAAAABlBMVEUHJ0AJL0wyMCwHAAAAIElEQVQImWP4vvcBQ/W9Dwx73xcw3Pu+geF99QUGCsQAXCku4YzGKp8AAAAASUVORK5CYII=);
         background-repeat: repeat;
         background-position: top left;
         width: 100%;
@@ -1514,13 +1513,12 @@ element.style {
     nav.city-menu-wrapper .city-menu-2 {
         width: 165px;
         height: 65px;
-        background: #326e00;
+        background: #133b5a;
         float: right;
         position: relative;
         padding: 10px 5px 0 15px;
         letter-spacing: .92px;
         line-height: 16px;
-        background-image: url(data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABQAAAAUAQMAAAC3R49OAAAABlBMVEUHJ0AJL0wyMCwHAAAAIElEQVQImWP4vvcBQ/W9Dwx73xcw3Pu+geF99QUGCsQAXCku4YzGKp8AAAAASUVORK5CYII=);
         background-repeat: repeat;
         background-position: left center;
         margin-top: -65px
@@ -1553,7 +1551,10 @@ element.style {
         bottom: 0;
         width: 0
     }
-    
+    .navbar-default li a:hover,
+    .tc-text-block:hover{
+        text-decoration: underline;
+    }
     #main-menu {
         float: left;
         margin-top: 20px;
