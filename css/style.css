@@ -2202,7 +2202,8 @@ element.style {
     }
     .socialize .fa-facebook:before {
         background: url(../img/f.png) no-repeat;
-        background-size: 62%;
+        background-size: 81%;
+        top: 2px;
     }
     .aricle-share  .fa-twitter:before {
         background: url(../img/t.jpg) no-repeat;
