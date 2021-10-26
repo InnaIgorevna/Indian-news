@@ -1923,7 +1923,6 @@ element.style {
         font-weight: 700;
         font-size: 20px;
         margin: 20px auto;
-        margin-top: 0;
         cursor: pointer;
     }
     .trade_btn a{
