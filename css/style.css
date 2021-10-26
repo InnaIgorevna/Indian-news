@@ -4609,7 +4609,10 @@ element.style {
         .sssec .groupsitesheading {
             color: #de5663 !important;
         }
-
+        @media ( max-width :1567px) {
+            .subsEntrymenu {
+                margin-bottom: 10px;
+        }
         @media ( max-width :550px) {
             .artcl-social-media{
                 display: none !important;
