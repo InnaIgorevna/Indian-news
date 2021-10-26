@@ -224,7 +224,15 @@ body {
     @media(max-width : 767px) {
         .trending-carousel-container,
         .search-block,
-        .socialize  {
+        .socialize,
+        #logo,
+        .main-menu,
+        .city-menu-wrapper,
+        #div-gpt-ad-1570689389565-0,
+        .mobile-auth-nm,
+        .mobile-ut-container,
+        .promoted-story,
+        .search-block form  {
             display:none!important
         }
     
