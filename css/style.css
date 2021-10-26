@@ -222,7 +222,9 @@ body {
     }
     
     @media(max-width : 767px) {
-        .hidden-xs {
+        .trending-carousel-container,
+        .search-block,
+        .socialize  {
             display:none!important
         }
     
@@ -4035,12 +4037,9 @@ element.style {
     @media(max-width : 767px) and (min-width:1px) {
         footer {
             margin:unset!important;
-            margin-bottom: 70px!important
-        }
-    
-        
+            margin-bottom: 0px!important
+        }       
     }
-
     @media(min-width : 768px) {
         .artcl-social-media ul li a {
             padding:0 13px!important
