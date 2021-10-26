@@ -4611,6 +4611,9 @@ element.style {
         }
 
         @media ( max-width :550px) {
+            .artcl-social-media{
+                display: none !important;
+            }
             .article h1 {
                 font-size: 24px;
                 line-height: 27px;
